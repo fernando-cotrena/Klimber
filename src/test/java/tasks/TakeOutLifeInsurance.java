@@ -6,7 +6,7 @@ import net.serenitybdd.screenplay.actions.Click;
 import net.serenitybdd.screenplay.actions.Enter;
 import pages.GroupLifeStep2Page;
 
-public class TakeOutLifeLnsurance2 {
+public class TakeOutLifeInsurance {
     public static Performable completeTheRequiredDataFromStepTwo(
             String height,
             String weight) {

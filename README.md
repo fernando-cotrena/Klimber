@@ -12,6 +12,7 @@ Proyecto implementado con SerenityBDD, donde se aprovecha la sintaxis Gherkin pa
 
 ```bash
 .gradle clean test
+
 ```
 ## Reporte
     Desde la ruta target\site\serenity se puede leer el archivo index.html
